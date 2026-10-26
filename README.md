@@ -12,3 +12,7 @@ Le projet est découpé en quatre modules. A est indépendant. B et C dépendent
  - Module B (encodeur) : dissimulation d'un message dans l'image
  - Module C (décodeur) : extraction d'un message dans l'image
  - Module D (application CLI) : interface en ligne de commande, gestion des fichiers
+
+
+
+test

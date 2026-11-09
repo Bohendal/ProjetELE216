@@ -1,9 +1,9 @@
 /**
  * @file stegano.c
- * @author Thomas Gagnon, Catherine Bourget, Benjamin Legris, Houssam Moussafir
+ * @author  Houssam Moussafir
  * @brief Programme principal phase 1 & 2
  * @version 0.2
- * @date 2026-07-21
+ * @date 2026-0
  */
 
 #include <stdlib.h>

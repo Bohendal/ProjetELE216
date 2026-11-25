@@ -1,16 +1,3 @@
-/**
- * @file encodeur.h
- * @author 
- * @brief Spécification du module d'encodage pour la stéganographie.
- *        Ce module fournit les fonctions nécessaires pour dissimuler un
- *        message binaire dans les bits de poids faible (LSB) d'une image BMP.
- * @version 0.1
- * @date 2026-
- * 
- * @copyright Copyright (c) 2026
- * 
- */
-
 #pragma once
 
 #include "image_bmp.h"

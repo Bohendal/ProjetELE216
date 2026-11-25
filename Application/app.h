@@ -1,13 +1,3 @@
-/**
- * @file app.h
- * @author Houssam Moussafir
- * @brief Interface du module D (Application CLI) pour l'outil de stéganographie.
- * @version 0.1
- * @date 2026-07-07
- * 
- * @copyright Copyright (c) 2026
- * 
- */
 #ifndef APP_H
 #define APP_H
 

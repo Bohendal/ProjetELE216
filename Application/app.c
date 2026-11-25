@@ -1,14 +1,3 @@
-/**
- * @file app.c
- * @author Houssam Moussafir
- * @brief Implémentation des fonctions du module D (Application CLI)
- * @version 0.1
- * @date 2026-07-15
- * 
- * @copyright Copyright (c) 2026
- * 
- */
-
 #include <stdio.h>
 #include "app.h"
 #include "../Image/image_bmp.h"
